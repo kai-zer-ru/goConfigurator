@@ -1,4 +1,4 @@
-package Configuration
+package goConfigurator
 
 import (
 	"io/ioutil"
